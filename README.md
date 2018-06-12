@@ -17,12 +17,12 @@ And it is used to search the book while utilizing the Google Books API and mimic
 
 ### Main function of the application,
 
-1. In the main activity, you simply put any books name or just the keywords in the search box.
+#### 1. In the main activity, you simply put any books name or just the keywords in the search box.
 
-   <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/main.png" width="50%">
-   </p>   
+<p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/main.png" width="50%">
+</p>   
 
-2. List the books in 3 different way. The default order is to list the books with the highest ratings to the lowest. And you can also choose to list them using price.
+#### 2. List the books in 3 different way. The default order is to list the books with the highest ratings to the lowest. And you can also choose to list them using price.
 
 
 <p float="left" align="middle">
@@ -30,17 +30,17 @@ And it is used to search the book while utilizing the Google Books API and mimic
   <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/list2.png" width="42%" />
 </p>
 
-3. Press the book, you will be lead to the Google Play Page, you can choose to add it to the wish list or buy it directly.
+#### 3. Press the book, you will be lead to the Google Play Page, you can choose to add it to the wish list or buy it directly.
 
-   <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/play.png" width="50%">
-   </p> 
+<p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/play.png" width="50%">
+</p> 
 
-4. Press the back button, you will return to the list of books. By long pressing the book, you can add it to the favorite.
+#### 4. Press the back button, you will return to the list of books. By long pressing the book, you can add it to the favorite.
 
-   <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/add.png" width="50%">
-   </p>    
+<p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/add.png" width="50%">
+</p>    
 
-5. And the favorites can be accessed any time in the main activity.
+#### 5. And the favorites can be accessed any time in the main activity.
 
-   <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/favorites.png" width="50%">
-   </p>                                
+<p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/favorites.png" width="50%">
+</p>                                
