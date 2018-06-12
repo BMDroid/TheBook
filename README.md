@@ -1,33 +1,46 @@
 # TheBook
-<p align="center">  <img src="https://github.com/BMDroid/Thebook/blob/master/screenShots/icon.png" width="50%">
+<p align="center">  <img src="https://github.com/BMDroid/Thebook/blob/master/screenShots/icon.png" width="40%">
 </p>                                                                                                
 <br/>
 
-An Android application devoted to those book worms.
+An Android application devoted to those book worms. 
 
-### To obtain the news,
+This application is one of the project of Android Basics Nanodegree by Google on Udacity. 
 
-1. Utilize the Guard API.
-2. Parse the JSON object and retrieve the information including title, author, section, image and main contents.
-3. Create the News class to handle the data parsed from the last step.
+And it is used to search the book while utilizing the Google Books API and mimic the function of Google Play Store. 
 
-### Build the application
+### Search the books,
 
-1. Design the main activity of the application.
-2. Choose what information to be showed to the viewers.
-3. Viewers can choose the different kinds of the news to fit their preference.
+1. Utilize the Google Books API.
+2. Parse the JSON object and retrieve the information including book title, author, price, cover and reviews.
+3. Create the books class to handle the data parsed from the last step.
 
-### This is the main activity of Zhidao, which shows the news in a plain look
+### Main function of the application,
 
-<p align="center">  <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/list.png" width="50%">
-</p>                                                                                                
+1. In the main activity, you simply put any books name or just the keywords in the search box.
 
-### This is news contents in Zhidao
+   <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/list.png" width="50%">
+   </p>   
 
-<p align="center">  <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/content.png" width="50%">
-</p>                                                                                                
+2. List the books in 3 different way. The default order is to list the books with the highest ratings to the lowest. And you can also choose to list them using price.
 
-### In setting, you can choose the topics you are interested in
+   <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/list1.png" width="50%">
 
-<p align="center">  <img src="https://github.com/BMDroid/Zhidao/blob/master/screenShots/setting.png" width="50%">
-</p>                                
+   <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/list2.png" width="50%"> 
+
+   </p>       
+
+3. Press the book, you will be lead to the Google Play Page, you can choose to add it to the wish list or buy it directly.
+
+   <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/play.png" width="50%">
+   </p> 
+
+4. Press the back button, you will return to the list of books. By long pressing the book, you can add it to the favorite.
+
+   <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/add.png" width="50%">
+   </p>    
+
+5. And the favorites can be viewed any time in the main activity.
+
+   <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/favorites.png" width="50%">
+   </p>                                
