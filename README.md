@@ -38,12 +38,12 @@ List by Ratings            |  List by Price
    <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/add.png" width="50%">
    </p>    
 
-5. And the favorites can be viewed any time in the main activity.
+5. And the favorites can be accessed any time in the main activity.
 
    <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/favorites.png" width="50%">
    </p>                                
 
-<p float="left">
-  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/list1.png" width="40%" />
-  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/list2.png" width="40%" />
+<p float="left" align="middle">
+  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/list1.png" width="45%" />
+  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/list2.png" width="45%" />
 </p>
