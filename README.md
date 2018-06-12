@@ -19,7 +19,7 @@ And it is used to search the book while utilizing the Google Books API and mimic
 
 1. In the main activity, you simply put any books name or just the keywords in the search box.
 
-   <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/list.png" width="50%">
+   <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/main.png" width="50%">
    </p>   
 
 2. List the books in 3 different way. The default order is to list the books with the highest ratings to the lowest. And you can also choose to list them using price.
@@ -44,3 +44,8 @@ And it is used to search the book while utilizing the Google Books API and mimic
 
    <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/favorites.png" width="50%">
    </p>                                
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/favorites.png" width="50%">
+</p>
+<img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/favorites.png" width="50%">
+<p style="clear: both;">
