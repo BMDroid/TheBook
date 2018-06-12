@@ -24,11 +24,9 @@ And it is used to search the book while utilizing the Google Books API and mimic
 
 2. List the books in 3 different way. The default order is to list the books with the highest ratings to the lowest. And you can also choose to list them using price.
 
-   <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/list1.png" width="50%">
-
-   <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/list2.png" width="50%"> 
-
-   </p>       
+List by Ratings            |  List by Price
+:-------------------------:|:-------------------------:
+![](https://github.com/BMDroid/TheBook/blob/master/screenShots/list1.png)  |  ![](https://github.com/BMDroid/TheBook/blob/master/screenShots/list1.png)      
 
 3. Press the book, you will be lead to the Google Play Page, you can choose to add it to the wish list or buy it directly.
 
@@ -44,10 +42,6 @@ And it is used to search the book while utilizing the Google Books API and mimic
 
    <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/favorites.png" width="50%">
    </p>                                
-
-1            |  2
-:-------------------------:|:-------------------------:
-![](https://github.com/BMDroid/TheBook/blob/master/screenShots/list1.png)  |  ![](https://github.com/BMDroid/TheBook/blob/master/screenShots/list1.png)
 
 <p float="left">
   <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/list1.png" width="40%" />
