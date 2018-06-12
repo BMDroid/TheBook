@@ -45,7 +45,5 @@ And it is used to search the book while utilizing the Google Books API and mimic
    <p align="center">  <img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/favorites.png" width="50%">
    </p>                                
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/favorites.png" width="50%">
-</p>
-<img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/favorites.png" width="50%">
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/favorites.png" width="50%"></p><img src="https://github.com/BMDroid/TheBook/blob/master/screenShots/favorites.png" width="50%"></p>
 <p style="clear: both;">
