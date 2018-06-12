@@ -26,7 +26,7 @@ And it is used to search the book while utilizing the Google Books API and mimic
 
 List by Ratings            |  List by Price
 :-------------------------:|:-------------------------:
-![](https://github.com/BMDroid/TheBook/blob/master/screenShots/list1.png)  |  ![](https://github.com/BMDroid/TheBook/blob/master/screenShots/list1.png)      
+![](https://github.com/BMDroid/TheBook/blob/master/screenShots/list1.png)  {:height="50%" width="50%"}|  ![](https://github.com/BMDroid/TheBook/blob/master/screenShots/list1.png)      
 
 3. Press the book, you will be lead to the Google Play Page, you can choose to add it to the wish list or buy it directly.
 
